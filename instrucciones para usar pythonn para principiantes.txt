@@ -1,0 +1,61 @@
+Instalar Python para windows desde  https://www.python.org/downloads/
+apretar "Add python to path" en el proceso de instalaci�n para ejectuar python desde la l�nea de comandos (terminal)
+--> presionar boton windows + r para que se abra el cuadro de dialogo ejecutar. All� escribir "cmd" + enter para que se abra la consola en windows. 
+El s�mbolo del sistema de Windows no es tan potente como sus contrapartes en Linux y OS X, por lo que es posible que desee iniciar el int�rprete de Python (ver a continuaci�n) directamente o usar el programa IDLE que viene con Python
+
+Simplemente escriba python en su consola, presione Entery deber�a ingresar al int�rprete de Python.
+
+Para saber qu� versi�n de Python est�s ejecutando, escribe en tu consola para que te lo digan.python -V
+El mensaje >>> en la �ltima l�nea indica que ahora est�s en una sesi�n interactiva de int�rprete de Python, tambi�n llamada �shell de Python�. �Esto es diferente del mensaje de comando de terminal normal!
+tutoriales en : https://docs.python.org/3.12/tutorial/.
+Un comando extremadamente �til es help(), que ingresa a una funci�n de ayuda para explorar todo lo que Python le permite hacer, directamente desde el int�rprete. Presione qpara cerrar la ventana de ayuda y regresar al indicador de Python.
+
+Para salir del shell interactivo y volver a la consola (el shell del sistemaCtrl-Z ), presione y luego Enter en Windows, o Ctrl-Den OS X o Linux. Alternativamente, tambi�n puede ejecutar el comando python exit()!
+
+https://opentechschool.github.io/python-beginners/en/getting_started.html#what-is-python-exactly 
+este es el link para iniciar en la programaci�n, "python para principiantes" es todo texto. 
+
+abrimos vsc y creamos un archivo hello.py. tuvimos que instalar la extension recomendada  de python para windows
+
+Sintaxis en Python: 
+indentacion: espacios o tabulaciones al inicio de una línea. delimita bloques de código. 
+# Bloque de código si condición es verdadera es "if condition"
+
+#Bloque de código si la condición es falsa es "else"
+
+los "#" sirven para colocar comentarios en una sola línea.  y tres grupos de comillas es para comentarios de varias lineas.
+
+las mayúsculas si hacen a la diferencia y hacen que lo que escribimos varie. 
+
+no es necesario escribir punto y coma (;) al final de cada línea, pero si quieres escribir varias instrucciones en una misma línea
+si es necesario colocar punto y coma (;)
+
+los paréntesis se utilizan para agrupar expresiones, definir funciones y realizar llamadas a funciones.
+
+Tipo de datos básicos:
+
+Enteros (int): son los que no tienen parte decimal. se escriben sin ponerle comillas ni puntos. 
+edad = 27
+año = 2024
+cantidad = 2000
+
+Flotantes (float):son los que tienen decimales. se separa la parte entera de la decimal con un punto. 
+precio= 9.99
+altura= 1.70
+
+cadenas de texto (strings): son secuencias de carácteres encerradas entre comillas simple ('...') o dobles ("...") se utilizan para representar texto
+nombre = "Belen"
+mensaje = 'La vida se pone heavy a veces'
+
+Booleanos: representan a los valores de verdad (true) o (false). se usan generalmente en expresiones condicionales u operaciones lógicas. 
+los valores empiezan con mayuscula (True) (False)
+
+Variables: 
+etiquetas a las que le asiganmos un valor específico. 
+para declarar y asignar un valor a una variable usamos el signo '='
+el nombre de la variable va a la izquierda y el valor a la derecha. (izquierda = derecha)
+***Los nombres de las variables solo pueden tener letras, números, y guiones bajo. no comienzan con número.. distingue mayuscula de minuscula. 
+no se pueden utilizar palabras clave reservadas de Python como nombres de variables. (ej:if else, for, while, etc)
+se recomienda utilizar nombres descriptivos que indiquen claramente su propósito. 
+
+

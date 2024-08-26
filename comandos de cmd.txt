@@ -1,0 +1,26 @@
+La consola CMD es la ventana de comandos con la que se puede dar órdenes simples a un ordenador sin usar la interfaz gráfica de Windows.
+Los siguientes comandos son los que tenemos que utilizar para ésta terminal:
+Comandos CMD básicos
+CD. CD significa carpeta. Escribiendo CD Documentos entrarás en la carpeta Documentos. 
+     Y para salir de ella, solo tendrás que escribir CD..
+
+DIR. Muestra todo el contenido de un directorio (carpeta).
+
+TREE. Muestra el árbol de carpetas de la carpeta que le indiques.
+
+MD. Crea una carpeta o directorio.
+
+MOVE. Te permite mover un archivo de un directorio a otro.
+
+RENAME. Cambiar el nombre o la extensión de un archivo, como si lo hicieras en Windows.
+
+DEL. Borra el archivo o carpeta que indiques tras un espacio.
+
+DATE. Permite ver o cambiar la fecha del equipo.
+
+DEL. Elimina el archivo que digas.
+
+FIND. Busca una cadena de texto en uno o más archivos.
+
+
+https://ticgrup.com/los-comandos-cmd-que-deberias-conocer/
